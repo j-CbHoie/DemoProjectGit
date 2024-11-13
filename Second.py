@@ -8,5 +8,8 @@ def read_cars_file () :
     # Read and print each row in the CSV
     for row in csv_reader :
         print ( row )
+        
 # Run the function to read the file
 read_cars_file ()
+
+#comment
